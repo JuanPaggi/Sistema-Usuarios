@@ -20,6 +20,6 @@ public class SistemaUsuariosApplication {
 			@PropertySource("classpath:database.properties"),
 	})
 	static class ProfileDefault {
-		
+
 	}
 }
